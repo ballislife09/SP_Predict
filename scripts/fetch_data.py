@@ -60,4 +60,3 @@ if __name__ == "__main__":
         print(f"Fetching data for {ticker}...")
         print(f"Percent change: {update_company_data(ticker):.2f}%")
         '''
-#monk
